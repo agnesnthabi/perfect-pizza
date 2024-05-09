@@ -1,0 +1,23 @@
+body{
+    background-color: #DDBDD5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.medium_pizza{
+    background-color: pink ;
+    border: 1px solid;
+}
+
+.large_pizza{
+    background-color: powderblue;
+    border: 1px solid;
+}
+
+.small_pizza{
+    background-color: plum;
+    border: 1px solid;
+}
+
+.contacts{
+    background-color: cornsilk;
+}
